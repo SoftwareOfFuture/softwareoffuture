@@ -36,6 +36,6 @@ We design and build scalable, modern web applications for businesses — from co
 - **Website:** [softwareoffuture.com](https://softwareoffuture.com)
 - **Email:** softwareofuture@gmail.com
 - **Business:** info@softwareoffuture.com
-- **LinkedIn:** [Software Of Future](https://linkedin.com/in/software-of-future-404712315)
+- **LinkedIn:** [Software Of Future](https://www.linkedin.com/in/softwareoffuture/)
 - **X (Twitter):** [@softwareofuture](https://x.com/softwareofuture)
 - **Instagram:** [@softwareoffuture](https://instagram.com/softwareoffuture)
